@@ -1,5 +1,5 @@
 # OnlineBook-to-PDF
-I made this for myself so i could transfer my online class books into PDFs so i could work in them esier and keep my school work more orginized
+I made this for myself so I could transfer my online class books into PDFs so I could work in them easier and keep my school work more organized.
 
 ## How to use
 - Via the js console get all image links the online book gives you
