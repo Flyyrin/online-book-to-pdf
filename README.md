@@ -1,9 +1,11 @@
-# OnlineBook-to-PDF
-I made this for myself so I could transfer my online class books into PDFs so I could work in them easier and keep my school work more organized.
+# Online Book to PDF Converter
+
+## Project Description
+This tool allows for online web courses to be converted to PDFs to allow easy editing.
 
 ## How to use
 - Via the js console get all image links the online book gives you
-- Paste the mess of links into the links.txt
+- Paste the links into the links.txt
 - Run the clean.py, it will orden the links and but 1 link on each line
 - Paste the ordened links into the bulk site opener (link in clean.py)
 - Now use any img to PDF website (link in clean.py)
